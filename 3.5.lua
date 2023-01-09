@@ -1,0 +1,4 @@
+-- the fraction 127/10. Then, we can find the least common multiple (LCM) of 10 and a power of two.
+--  The LCM of 10 and 8 (2^3) is 40, so we can rewrite the fraction as 127/40 by multiplying the 
+--  numerator and denominator by 4/4. 
+-- -- This fraction can then be reduced to 31/10
